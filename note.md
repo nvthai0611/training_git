@@ -36,3 +36,7 @@
 - mở termical ctrl = `
 
 - để nhánh mới xuất hiện trên remote => push code lên
+
+# giải quyết conflict
+
+- Phải pull code mới nhất về
