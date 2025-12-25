@@ -36,3 +36,13 @@
 - mở termical ctrl = `
 
 - để nhánh mới xuất hiện trên remote => push code lên
+
+# giải quyết conflict
+
+- Phải pull code mới nhất về
+
+# Trước khi code
+
+- pull code mới nhất về
+- fix nếu có conflict
+- push lên nhánh mình và tiến hành merge
